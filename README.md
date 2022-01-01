@@ -1,8 +1,6 @@
 # CFW Installer
 
-<img src="/home/jerrywalker/Code/PS4/Homebrew/CartiHomebrew/sce_sys/pic0.png" style="zoom:50%;"/>
-
-[![License][img_license]][app_license]
+<img src="https://github.com/Roko191/CFW-Installer/CartiHomebrew/sce_sys/pic0.png" style="zoom:50%;"/>
 
 ## About
 
