@@ -4,7 +4,7 @@
 
 ## About
 
-CFW Installer is obviously a troll app. It uses troll value of `sceKernelSetIccBuzzer();` which can be found in `libkernel.h` header file. Basically console does not stop "beeping" until you turn off the console.  It does some very simple drawing on scene and It has input so I don't need to turn off my console every time I want to move something for few pixel. It also uses `MsgDialog.h` for displaying some important stuff and one only friendly message in this program. Source is obviously here on the repo  and I even included the `.xfc` GIMP project files and assets used for making of `icon0.png`, `pic0.png` , `icon0` without background gradient and other... PS4 `.pkg` file can be found in releases tab here [CFW Installer GitHub repo](github.com/reponame).
+CFW Installer is obviously a troll app. It uses troll value of `sceKernelSetIccBuzzer();` which can be found in `libkernel.h` header file. Basically console does not stop "beeping" until you turn off the console.  It does some very simple drawing on scene and It has input so I don't need to turn off my console every time I want to move something for few pixel. It also uses `MsgDialog.h` for displaying some important stuff and one only friendly message in this program. Source is obviously here on the repo  and I even included the `.xfc` GIMP project files and assets used for making of `icon0.png`, `pic0.png` , `icon0` without background gradient and other... PS4 `.pkg` file can be found in releases tab here [here](https://github.com/Roko191/CFW-Installer).
 
 ## Why?
 
