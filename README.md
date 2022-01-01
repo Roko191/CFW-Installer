@@ -1,6 +1,6 @@
 # CFW Installer
 
-<img src="https://github.com/Roko191/CFW-Installer/CartiHomebrew/sce_sys/pic0.png" style="zoom:50%;"/>
+<img src="https://github.com/Roko191/CFW-Installer/blob/master/CartiHomebrew/sce_sys/pic0.png" style="zoom:50%;"/>
 
 ## About
 
